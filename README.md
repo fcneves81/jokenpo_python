@@ -44,4 +44,4 @@ Bibliotecas que requerem instalação estão marcadas com um sinal de ❗ e ao c
 
 * Fonte da imagem de capa: <a href="https://pt.vecteezy.com/vetor-gratis/pedra-papel-tesoura">Pedra Papel Tesoura Vetores por Vecteezy</a>
 
-* A música utilizada é "Main Theme" do jogo e  foi produzida por Tokuhiko Uwabo, sendo propriedade da <a href="https://www.sega.com/">SEGA</a> e foi baixada da seguinte fonte: <a href="https://downloads.khinsider.com/game-soundtracks/album/alex-kidd-in-miracle-world-master-system">Alex Kidd in Miracle World</a>
+* A música utilizada é "Main Theme" do jogo <em><strong>Alex Kidd in Miracle World</em></strong> e  foi produzida por Tokuhiko Uwabo, sendo propriedade da <a href="https://www.sega.com/">SEGA</a> e foi baixada da seguinte fonte: <a href="https://downloads.khinsider.com/game-soundtracks/album/alex-kidd-in-miracle-world-master-system">Alex Kidd in Miracle World</a>
